@@ -1,6 +1,6 @@
-# Kanagawa Lotus UI theme for Inkdrop
+# Kanagawa Lotus theme for Inkdrop
 
-Kanagawa Lotus UI theme for [Inkdrop](https://www.inkdrop.app/).
+Kanagawa Lotus theme for [Inkdrop](https://www.inkdrop.app/).
 The color palette is based on [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) — a dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 
 ![screenshot](./docs/screenshot.png)
@@ -8,5 +8,5 @@ The color palette is based on [rebelot/kanagawa.nvim](https://github.com/rebelot
 ## Installation
 
 ```sh
-ipm install kanagawa-lotus-ui
+ipm install kanagawa-lotus
 ```
