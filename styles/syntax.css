@@ -23,7 +23,9 @@
     --editor-active-line-background-color: hsl(
       var(--kanagawa-lotusWhite5) / 30%
     ); /* ui.bg_p2 */
-    --editor-special-char-color: hsl(var(--kanagawa-lotusGray3)); /* ui.special */
+    --editor-special-char-color: hsl(
+      var(--kanagawa-lotusGray3)
+    ); /* ui.special */
     --editor-spelling-error-color: var(--negative-color);
 
     --editor-gutter-border-right: none;
@@ -116,7 +118,9 @@
     --editor-fold-placeholder-border-radius: 0.2em;
     --editor-fold-placeholder-color: hsl(var(--kanagawa-lotusInk1));
     --editor-fold-placeholder-border: 1px solid hsl(var(--kanagawa-lotusGray3));
-    --editor-fold-placeholder-background-color: hsl(var(--kanagawa-lotusWhite0));
+    --editor-fold-placeholder-background-color: hsl(
+      var(--kanagawa-lotusWhite0)
+    );
 
     --editor-image-widget-backdrop-background-color: hsl(
       var(--kanagawa-lotusWhite0) / 40%
@@ -258,7 +262,7 @@
     --syntax-heading-5-font-weight: var(--syntax-heading-font-weight);
     --syntax-heading-6-color: var(--syntax-heading-color);
     --syntax-heading-6-font-weight: var(--syntax-heading-font-weight);
-    --syntax-content-separator-color: hsl(var(--kanagawa-lotusGray3));
+    --syntax-content-separator-color: hsl(var(--kanagawa-lotusRed2));
     --syntax-list-color: hsl(var(--kanagawa-lotusTeal2));
     --syntax-quote-color: hsl(var(--kanagawa-lotusGray2));
     --syntax-quote-font-style: italic;
